@@ -4,9 +4,13 @@ A PHP backed automatic image gallery. Automatically loads all the images and fol
 # Dependencies
 - 
 
+# Notes
+- This is a very old project
+
 # To-Do
 - Redesign gallery page
 - Redesign codebase
+- Finish small image preview on gallery overview
 
 # Previews
 Gallery overview
